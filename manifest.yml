@@ -6,4 +6,3 @@ applications:
   name: getTwitterDB
   host: getTwitterDB
   disk_quota: 1024M
-  buildpack: "https://github.com/cloudfoundry/python-buildpack.git#v1.5.5"
