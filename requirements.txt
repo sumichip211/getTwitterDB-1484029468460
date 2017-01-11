@@ -1,6 +1,0 @@
-ipython[notebook]
-twitter
-wordcloud
-matplotlib
-Pillow
-watson-developer-clould
